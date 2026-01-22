@@ -85,8 +85,6 @@ Screenshots demonstrate:
 - Visualizations
 - Benchmarks & monitoring views
 
-(Refer to the `/screenshots` folder)
-
 ---
 
 ## 🎯 Key Takeaways
